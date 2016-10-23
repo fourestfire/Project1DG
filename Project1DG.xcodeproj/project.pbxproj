@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		051361511DBC452500F9AA4F /* nssl0043.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 051361501DBC452500F9AA4F /* nssl0043.jpg */; };
+		051361561DBD099200F9AA4F /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 051361521DBD099200F9AA4F /* nssl0033.jpg */; };
+		051361571DBD099200F9AA4F /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 051361531DBD099200F9AA4F /* nssl0034.jpg */; };
+		051361581DBD099200F9AA4F /* nssl0041.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 051361541DBD099200F9AA4F /* nssl0041.jpg */; };
+		051361591DBD099200F9AA4F /* nssl0042.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 051361551DBD099200F9AA4F /* nssl0042.jpg */; };
+		0513615D1DBD099900F9AA4F /* nssl0049.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0513615A1DBD099900F9AA4F /* nssl0049.jpg */; };
+		0513615E1DBD099900F9AA4F /* nssl0051.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0513615B1DBD099900F9AA4F /* nssl0051.jpg */; };
+		0513615F1DBD099900F9AA4F /* nssl0091.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0513615C1DBD099900F9AA4F /* nssl0091.jpg */; };
+		055BAB801DBC300F00517961 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 055BAB7E1DBC300F00517961 /* DetailViewController.swift */; };
+		055BAB811DBC300F00517961 /* CollectionViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 055BAB7F1DBC300F00517961 /* CollectionViewController.xib */; };
 		05F377011DBC29EE00AB4F0B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05F377001DBC29EE00AB4F0B /* AppDelegate.swift */; };
 		05F377031DBC29EE00AB4F0B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05F377021DBC29EE00AB4F0B /* ViewController.swift */; };
 		05F377061DBC29EF00AB4F0B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05F377041DBC29EF00AB4F0B /* Main.storyboard */; };
@@ -15,6 +25,16 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		051361501DBC452500F9AA4F /* nssl0043.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0043.jpg; sourceTree = "<group>"; };
+		051361521DBD099200F9AA4F /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
+		051361531DBD099200F9AA4F /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
+		051361541DBD099200F9AA4F /* nssl0041.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0041.jpg; sourceTree = "<group>"; };
+		051361551DBD099200F9AA4F /* nssl0042.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0042.jpg; sourceTree = "<group>"; };
+		0513615A1DBD099900F9AA4F /* nssl0049.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0049.jpg; sourceTree = "<group>"; };
+		0513615B1DBD099900F9AA4F /* nssl0051.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0051.jpg; sourceTree = "<group>"; };
+		0513615C1DBD099900F9AA4F /* nssl0091.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0091.jpg; sourceTree = "<group>"; };
+		055BAB7E1DBC300F00517961 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		055BAB7F1DBC300F00517961 /* CollectionViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CollectionViewController.xib; sourceTree = "<group>"; };
 		05F376FD1DBC29EE00AB4F0B /* Project1DG.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project1DG.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		05F377001DBC29EE00AB4F0B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		05F377021DBC29EE00AB4F0B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,10 +76,20 @@
 			children = (
 				05F377001DBC29EE00AB4F0B /* AppDelegate.swift */,
 				05F377021DBC29EE00AB4F0B /* ViewController.swift */,
+				055BAB7E1DBC300F00517961 /* DetailViewController.swift */,
+				055BAB7F1DBC300F00517961 /* CollectionViewController.xib */,
 				05F377041DBC29EF00AB4F0B /* Main.storyboard */,
 				05F377071DBC29EF00AB4F0B /* Assets.xcassets */,
 				05F377091DBC29EF00AB4F0B /* LaunchScreen.storyboard */,
 				05F3770C1DBC29EF00AB4F0B /* Info.plist */,
+				051361501DBC452500F9AA4F /* nssl0043.jpg */,
+				051361521DBD099200F9AA4F /* nssl0033.jpg */,
+				051361531DBD099200F9AA4F /* nssl0034.jpg */,
+				051361541DBD099200F9AA4F /* nssl0041.jpg */,
+				051361551DBD099200F9AA4F /* nssl0042.jpg */,
+				0513615A1DBD099900F9AA4F /* nssl0049.jpg */,
+				0513615B1DBD099900F9AA4F /* nssl0051.jpg */,
+				0513615C1DBD099900F9AA4F /* nssl0091.jpg */,
 			);
 			path = Project1DG;
 			sourceTree = "<group>";
@@ -123,6 +153,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0513615D1DBD099900F9AA4F /* nssl0049.jpg in Resources */,
+				0513615F1DBD099900F9AA4F /* nssl0091.jpg in Resources */,
+				051361581DBD099200F9AA4F /* nssl0041.jpg in Resources */,
+				051361511DBC452500F9AA4F /* nssl0043.jpg in Resources */,
+				051361571DBD099200F9AA4F /* nssl0034.jpg in Resources */,
+				0513615E1DBD099900F9AA4F /* nssl0051.jpg in Resources */,
+				051361561DBD099200F9AA4F /* nssl0033.jpg in Resources */,
+				051361591DBD099200F9AA4F /* nssl0042.jpg in Resources */,
+				055BAB811DBC300F00517961 /* CollectionViewController.xib in Resources */,
 				05F3770B1DBC29EF00AB4F0B /* LaunchScreen.storyboard in Resources */,
 				05F377081DBC29EF00AB4F0B /* Assets.xcassets in Resources */,
 				05F377061DBC29EF00AB4F0B /* Main.storyboard in Resources */,
@@ -136,6 +175,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				055BAB801DBC300F00517961 /* DetailViewController.swift in Sources */,
 				05F377031DBC29EE00AB4F0B /* ViewController.swift in Sources */,
 				05F377011DBC29EE00AB4F0B /* AppDelegate.swift in Sources */,
 			);
@@ -299,6 +339,7 @@
 				05F377111DBC29EF00AB4F0B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
